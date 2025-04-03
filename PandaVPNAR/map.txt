@@ -1,0 +1,27 @@
+Copyoutline_vpn_bot/
+│
+├── .env
+├── config.py               # Конфигурация и константы
+├── bot.py                  # Основной файл для запуска бота
+├── api/
+│   ├── __init__.py
+│   └── outline.py          # API клиент для Outline
+│
+├── handlers/
+│   ├── __init__.py
+│   ├── admin.py            # Обработчики для администратора
+│   └── user.py             # Обработчики для обычных пользователей
+│
+├── keyboards/
+│   ├── __init__.py
+│   └── inline.py           # Инлайн-клавиатуры
+│
+├── states/
+│   ├── __init__.py
+│   └── forms.py            # Классы состояний
+│
+├── utils/
+│   ├── __init__.py
+│   └── decorators.py       # Полезные декораторы
+│
+└── requirements.txt        # Зависимости проекта
