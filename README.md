@@ -90,4 +90,4 @@ PandaVPNAR/
 MIT
 
 ## Автор
-Your Name
+TG: @Toksi69
