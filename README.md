@@ -52,7 +52,7 @@ REQUEST_LIMIT=3
 
 4. Запустить бота:
 ```bash
-python -m PandaVPNAR.bot
+python -m VPN_Bot/PandaVPNAR/bot.py
 ```
 
 ## Структура проекта
