@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d60abaa-b917-49d4-ab9c-2c4341fde3b2)# PandaVPN Telegram Bot
+# PandaVPN Telegram Bot
 
 Телеграм-бот для управления VPN-сервером на базе Outline VPN API. Позволяет создавать, просматривать и удалять ключи доступа, а также обрабатывать запросы от обычных пользователей.
 
