@@ -1,4 +1,4 @@
-# PandaVPN Telegram Bot
+![image](https://github.com/user-attachments/assets/1d60abaa-b917-49d4-ab9c-2c4341fde3b2)# PandaVPN Telegram Bot
 
 Телеграм-бот для управления VPN-сервером на базе Outline VPN API. Позволяет создавать, просматривать и удалять ключи доступа, а также обрабатывать запросы от обычных пользователей.
 
@@ -23,9 +23,9 @@
 - Проверка подключения к интернету при запуске
 
 ## Требования
-- Python 3.8+
-- aiogram 3.3.0+
-- aiohttp 3.9.1+
+- Python 3.13.1
+- aiogram 3.19.0
+- aiohttp 3.11.14
 - python-dotenv 1.0.0+
 
 ## Установка и настройка
